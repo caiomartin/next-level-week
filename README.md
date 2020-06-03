@@ -1,6 +1,8 @@
 # Next Level Week
 
-O Next Level Week tem como objetivo uma imersão de uma semana em muito conteúdo prático que possibilita avançar/impulsionar a carreira realizado pela Rocketseat.
+O Next Level Week tem como objetivo uma imersão de uma semana em muito conteúdo prático que possibilita avançar/impulsionar a carreira.
+
+Toda essa senama está sendo realizada pela [Rocketseat](https://rocketseat.com.br/).
 
 ![](https://raw.githubusercontent.com/caiomartin/next-level-week/master/screenshots/1440x900.jpg)
 
