@@ -4,7 +4,8 @@
   "description": "O Next Level Week tem como objetivo uma imersão de uma semana em muito conteúdo prático que possibilita avançar/impulsionar a carreira realizado pela Rocketseat.",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node-dev src/server.ts"
+    "dev": "ts-node-dev src/server.ts",
+    "knex:migrate": "knex --knexfile knexfile.ts migrate:latest"
   },
   "repository": {
     "type": "git",
